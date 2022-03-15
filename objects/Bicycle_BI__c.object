@@ -153,6 +153,17 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>delivery_information__c</fullName>
+        <description>set delivery informatiom</description>
+        <externalId>false</externalId>
+        <label>delivery information</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Bicycle_BI</label>
     <nameField>
         <label>Bicycle_BI Name</label>
